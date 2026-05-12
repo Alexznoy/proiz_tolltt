@@ -1,3 +1,2 @@
-Алгебра и начала математического анализа на вторник, 12 мая, Вес задания 10
-ЗАДАНИЕ: выполнить онлайн-тесты по ссылке и прислать скриншоты
-КОММЕНТАРИЙ: https://onlinetestpad.com/ru/test/292885-trenirovochnyj-test-ege-matematika-profil
+1) https://onlinetestpad.com/ru/test/662837-geometriya-na-ege-po-matematike-profilnyj-uroven
+2) https://onlinetestpad.com/ru/test/3853856-ege-geometriya-zadaniya-1-3-test-1
