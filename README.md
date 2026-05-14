@@ -1,1 +1,1 @@
-https://onlinetestpad.com/ru/test/2037181-diagnostika-11-klass-ege-matematika-profil
+https://onlinetestpad.com/ru/test/383413-obobshhayushhij-test-po-geometrii-dlya-podgotovki-k-ege-dlya-11-klassa
