@@ -1,1 +1,3 @@
-https://onlinetestpad.com/ru/test/383413-obobshhayushhij-test-po-geometrii-dlya-podgotovki-k-ege-dlya-11-klassa
+Алгебра и начала математического анализа на вторник, 19 мая, Вес задания 10
+ЗАДАНИЕ: выполнить онлайн-тесты по ссылке и прислать скриншоты
+КОММЕНТАРИЙ: https://onlinetestpad.com/ru/test/2800964-ege-2025-profilnaya-matematika-variant-1
